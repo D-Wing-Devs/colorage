@@ -1,0 +1,10 @@
+---------To install dependencies -----
+
+pip install -r requirements.txt
+
+
+
+---------To execute the app, type the following on terminal----------------
+
+/color-extractor color_names.npz <your_image_filename.jpg>
+
